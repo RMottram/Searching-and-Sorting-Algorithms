@@ -13,3 +13,9 @@ E:/University/AlgorithmsAssessment2/AlgorithmsAssessment2/obj/x86/Debug/Algorith
 E:/University/AlgorithmsAssessment2/AlgorithmsAssessment2/bin/Debug/AlgorithmsAssessment2.exe
 E:/University/AlgorithmsAssessment2/AlgorithmsAssessment2/bin/Debug/AlgorithmsAssessment2.pdb
 E:/University/AlgorithmsAssessment2/AlgorithmsAssessment2/obj/x86/Debug/AlgorithmsAssessment2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\bin\Debug\AlgorithmsAssessment2.exe
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\bin\Debug\AlgorithmsAssessment2.pdb
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\obj\x86\Debug\AlgorithmsAssessment2.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\obj\x86\Debug\AlgorithmsAssessment2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\obj\x86\Debug\AlgorithmsAssessment2.exe
+\\Mac\Home\Documents\GitHub\Searching-and-Sorting-Algorithms\AlgorithmsAssessment2\obj\x86\Debug\AlgorithmsAssessment2.pdb
